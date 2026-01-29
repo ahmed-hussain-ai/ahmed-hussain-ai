@@ -60,6 +60,6 @@ I have built the following systems and tools to automate workflows, manage leads
 ### 📫 How to reach me:
 
 - 📧 Email: [ahmedhussain.ai.eng@gmail.com]
-- 🌐 Portfolio: [link]
+- 🌐 Portfolio: [ahmedhussain.tech]
 - 🧠 LinkedIn: [https://www.linkedin.com/in/ahmed-hussain-ai/]
 
