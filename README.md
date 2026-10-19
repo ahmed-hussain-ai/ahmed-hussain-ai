@@ -105,10 +105,10 @@ I'm an **AI Engineer** who ships **production LLM systems** end to end — the a
 <img src="assets/h-arch.svg" alt="How my systems are built" width="100%"/>
 
 <p align="center">
-  <img src="assets/arch-aipersona-v2.svg" alt="AI Persona architecture: phone app → Nginx (TLS, JWT) → WebSocket + VAD → Deepgram speech-to-text → Cerebras router with Groq failover → planner & runner (retry, circuit breaker) → agents & MCP tools → composer → streaming voice → live Ditto avatar" width="100%"/>
+  <img src="assets/arch-aipersona-v3.svg" alt="AI Persona, a real-time AI avatar system: phone app → Nginx (TLS, JWT) → WebSocket + VAD → Deepgram speech-to-text → Cerebras router with Groq failover → planner & runner (retry, circuit breaker) → agents & MCP tools → composer → streaming voice → live Ditto avatar" width="100%"/>
 </p>
 <p align="center">
-  <img src="assets/arch-vendra-v2.svg" alt="Vendra architecture: channels → Nginx (TLS, rate limiting) → FastAPI + LangGraph agent → agentic RAG loop → grounding check; MCP clients → OAuth 2.1 → MCP server (9 scoped tools, audit log) → Postgres + pgvector → retrieval traces" width="100%"/>
+  <img src="assets/arch-vendra-v3.svg" alt="Vendra architecture: channels → Nginx (TLS, rate limiting) → FastAPI + LangGraph agent → agentic RAG loop → grounding check; MCP clients → OAuth 2.1 → MCP server (9 scoped tools, audit log) → Postgres + pgvector → retrieval traces" width="100%"/>
 </p>
 
 <br/>
