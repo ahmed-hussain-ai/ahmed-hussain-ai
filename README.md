@@ -56,17 +56,6 @@ I'm an **AI Engineer** who ships **production LLM systems** end to end — the a
 
 <br/>
 
-<img src="assets/h-arch.svg" alt="How my systems are built" width="100%"/>
-
-<p align="center">
-  <img src="assets/arch-aipersona.svg" alt="AI Persona architecture: phone app → Nginx (TLS, JWT) → WebSocket + VAD → Deepgram speech-to-text → Cerebras router with Groq failover → planner & runner (retry, circuit breaker) → agents & MCP tools → composer → streaming voice → live Ditto avatar" width="100%"/>
-</p>
-<p align="center">
-  <img src="assets/arch-vendra.svg" alt="Vendra architecture: channels → Nginx (TLS, rate limiting) → FastAPI + LangGraph agent → agentic RAG loop → grounding check; MCP clients → OAuth 2.1 → MCP server (9 scoped tools, audit log) → Postgres + pgvector → retrieval traces" width="100%"/>
-</p>
-
-<br/>
-
 <img src="assets/h-prod.svg" alt="Built for production" width="100%"/>
 
 <p align="center">
@@ -109,6 +98,17 @@ I'm an **AI Engineer** who ships **production LLM systems** end to end — the a
   <img src="https://img.shields.io/badge/Machine%20Learning-Stanford%20·%20Andrew%20Ng-6E5AEE?style=for-the-badge&labelColor=181822" alt="Machine Learning — Stanford, Andrew Ng"/>
   <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-Andrew%20Ng-3BA4F0?style=for-the-badge&labelColor=181822" alt="Deep Learning Specialization — Andrew Ng"/>
   <img src="https://img.shields.io/badge/Generative%20%26%20Agentic%20AI-Self--taught-D06CC0?style=for-the-badge&labelColor=181822" alt="Generative & Agentic AI — self-taught"/>
+</p>
+
+<br/>
+
+<img src="assets/h-arch.svg" alt="How my systems are built" width="100%"/>
+
+<p align="center">
+  <img src="assets/arch-aipersona.svg" alt="AI Persona architecture: phone app → Nginx (TLS, JWT) → WebSocket + VAD → Deepgram speech-to-text → Cerebras router with Groq failover → planner & runner (retry, circuit breaker) → agents & MCP tools → composer → streaming voice → live Ditto avatar" width="100%"/>
+</p>
+<p align="center">
+  <img src="assets/arch-vendra.svg" alt="Vendra architecture: channels → Nginx (TLS, rate limiting) → FastAPI + LangGraph agent → agentic RAG loop → grounding check; MCP clients → OAuth 2.1 → MCP server (9 scoped tools, audit log) → Postgres + pgvector → retrieval traces" width="100%"/>
 </p>
 
 <br/>

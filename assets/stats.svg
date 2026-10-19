@@ -8,8 +8,6 @@
   @keyframes spin { to { transform: rotate(360deg); } }
   .live { animation: blink 2s ease-in-out infinite; }
   @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: .3; } }
-  .rise { animation: rise .9s ease-out both; }
-  @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
 </style></defs><g class="rise" style="animation-delay:0.0s">
   <rect x="0.5" y=".5" width="278" height="169" rx="20" fill="#101018" stroke="#fff" stroke-opacity=".07"/>
   <rect x="24" y="26" width="34" height="4" rx="2" fill="url(#s0)"/>
