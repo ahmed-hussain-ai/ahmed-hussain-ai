@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ahmedhussain.tech"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=760&lines=I+build+AI+agents+that+do+real+work;Agentic+RAG+%E2%80%A2+MCP+servers+%E2%80%A2+LLM+evals;Real-time+voice+%26+avatar+AI+in+~1+second;Open+to+remote+AI+engineering+roles" alt="Typing intro"/></a>
+  <a href="https://ahmedhussain.tech"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=760&lines=I+build+AI+agents+that+do+real+work;Production+AI%3A+secured%2C+monitored%2C+measured;Agentic+RAG+%E2%80%A2+MCP+servers+%E2%80%A2+LLM+evals;Real-time+voice+%26+avatar+AI+in+~1+second;Open+to+remote+AI+engineering+roles" alt="Typing intro"/></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <img src="assets/h-about.svg" alt="About me" width="100%"/>
 
-I'm an **AI Engineer** who ships LLM products end to end — the agent loop, the retrieval pipeline, the API, the app, and the **evals that prove it works**. My final-year project is a live talking avatar of myself that holds real conversations on my behalf, and I build agents that sell, research and run outreach for real businesses.
+I'm an **AI Engineer** who ships **production LLM systems** end to end — the agent loop, the retrieval pipeline, the API, the app, the server it runs on, and the **evals that prove it works**. My systems are live on my own infrastructure behind TLS, with auth, failover, tracing and test suites. My final-year project is a live talking avatar of myself that holds real conversations on my behalf, and I build agents that sell, research and run outreach for real businesses.
 
 > **How I work:** build it, measure it, fix what the numbers say. Every result on this page comes from a real eval or real usage.
 
@@ -40,6 +40,37 @@ I'm an **AI Engineer** who ships LLM products end to end — the agent loop, the
 <p align="center">
   <a href="https://ahmedhussain.tech"><img src="assets/card-sparring.svg" alt="Sparring — agent QA and red-teaming: 2 real defects found, leak rate cut 30% to 10%" width="49%"/></a>
   <a href="https://ahmedhussain.tech"><img src="assets/card-leadmaster.svg" alt="LeadMaster — AI outreach: 7,262 emails, 261 replies, 3.6% reply rate" width="49%"/></a>
+</p>
+
+<br/>
+
+<img src="assets/h-live.svg" alt="Live right now" width="100%"/>
+
+<p align="center">
+  <a href="https://aipersona.ahmedhussain.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Faipersona.ahmedhussain.tech&label=AI%20Persona&up_message=live&down_message=offline&up_color=3DD68C&style=for-the-badge&labelColor=101018" alt="AI Persona status"/></a>
+  <a href="https://coachsync.ahmedhussain.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcoachsync.ahmedhussain.tech&label=Vendra&up_message=live&down_message=offline&up_color=3DD68C&style=for-the-badge&labelColor=101018" alt="Vendra status"/></a>
+  <a href="https://leadmaster.ahmedhussain.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Fleadmaster.ahmedhussain.tech&label=LeadMaster&up_message=live&down_message=offline&up_color=3DD68C&style=for-the-badge&labelColor=101018" alt="LeadMaster status"/></a>
+  <a href="https://ahmedhussain.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Fahmedhussain.tech&label=Portfolio&up_message=live&down_message=offline&up_color=3DD68C&style=for-the-badge&labelColor=101018" alt="Portfolio status"/></a>
+</p>
+<p align="center"><sub>Status is checked live each time this page loads.</sub></p>
+
+<br/>
+
+<img src="assets/h-arch.svg" alt="How my systems are built" width="100%"/>
+
+<p align="center">
+  <img src="assets/arch-aipersona.svg" alt="AI Persona architecture: phone app → Nginx (TLS, JWT) → WebSocket + VAD → Deepgram speech-to-text → Cerebras router with Groq failover → planner & runner (retry, circuit breaker) → agents & MCP tools → composer → streaming voice → live Ditto avatar" width="100%"/>
+</p>
+<p align="center">
+  <img src="assets/arch-vendra.svg" alt="Vendra architecture: channels → Nginx (TLS, rate limiting) → FastAPI + LangGraph agent → agentic RAG loop → grounding check; MCP clients → OAuth 2.1 → MCP server (9 scoped tools, audit log) → Postgres + pgvector → retrieval traces" width="100%"/>
+</p>
+
+<br/>
+
+<img src="assets/h-prod.svg" alt="Built for production" width="100%"/>
+
+<p align="center">
+  <img src="assets/production.svg" alt="Security, reliability, observability, quality gates, performance and shipping practices" width="100%"/>
 </p>
 
 <br/>
