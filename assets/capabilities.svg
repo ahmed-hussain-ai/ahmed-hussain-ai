@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<defs><linearGradient id="k0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9B8CFF"/><stop offset="1" stop-color="#5B45E0"/></linearGradient><linearGradient id="k1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3BA4F0"/><stop offset="1" stop-color="#5B6CF0"/></linearGradient><linearGradient id="k2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9B8CFF"/><stop offset="1" stop-color="#D06CC0"/></linearGradient><linearGradient id="k3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2FB980"/><stop offset="1" stop-color="#2BB5A5"/></linearGradient><style>
+  .f { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+  .pulse { animation: pulse 6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  .pulse2 { animation: pulse 9s ease-in-out infinite reverse; transform-box: fill-box; transform-origin: center; }
+  @keyframes pulse { 0%,100% { opacity: .7; transform: scale(1); } 50% { opacity: 1; transform: scale(1.12); } }
+  .spin { animation: spin 36s linear infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .live { animation: blink 2s ease-in-out infinite; }
+  @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: .3; } }
+  .rise { animation: rise .9s ease-out both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+</style></defs><g class="rise" style="animation-delay:0.0s">
+  <rect x="0.5" y=".5" width="287" height="149" rx="20" fill="#101018" stroke="#9B8CFF" stroke-opacity=".25"/>
+  <rect x="22" y="22" width="40" height="40" rx="12" fill="url(#k0)"/>
+  <g transform="translate(30 30) scale(.75)" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v6c0 1.7 3.6 3 8 3s8-1.3 8-3V5M4 11v6c0 1.7 3.6 3 8 3s8-1.3 8-3v-6"/></g>
+  <text x="76" y="48" class="f" font-size="18" font-weight="700" fill="#F5F5F8">Agentic systems</text>
+  <text x="22" y="96" class="f" font-size="14.5" fill="#A3A3B5">Tool-using agents, MCP servers,</text>
+  <text x="22" y="119" class="f" font-size="14.5" fill="#A3A3B5">multi-agent workflows</text>
+</g><g class="rise" style="animation-delay:0.12s">
+  <rect x="304.5" y=".5" width="287" height="149" rx="20" fill="#101018" stroke="#3BA4F0" stroke-opacity=".25"/>
+  <rect x="326" y="22" width="40" height="40" rx="12" fill="url(#k1)"/>
+  <g transform="translate(334 30) scale(.75)" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v6c0 1.7 3.6 3 8 3s8-1.3 8-3V5M4 11v6c0 1.7 3.6 3 8 3s8-1.3 8-3v-6"/></g>
+  <text x="380" y="48" class="f" font-size="18" font-weight="700" fill="#F5F5F8">Accurate RAG</text>
+  <text x="326" y="96" class="f" font-size="14.5" fill="#A3A3B5">Retrieve → grade → rewrite,</text>
+  <text x="326" y="119" class="f" font-size="14.5" fill="#A3A3B5">grounding &amp; citation checks</text>
+</g><g class="rise" style="animation-delay:0.24s">
+  <rect x="608.5" y=".5" width="287" height="149" rx="20" fill="#101018" stroke="#9B8CFF" stroke-opacity=".25"/>
+  <rect x="630" y="22" width="40" height="40" rx="12" fill="url(#k2)"/>
+  <g transform="translate(638 30) scale(.75)" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3M8 21h8"/></g>
+  <text x="684" y="48" class="f" font-size="18" font-weight="700" fill="#F5F5F8">Voice &amp; avatar AI</text>
+  <text x="630" y="96" class="f" font-size="14.5" fill="#A3A3B5">Real-time speech, cloned voice,</text>
+  <text x="630" y="119" class="f" font-size="14.5" fill="#A3A3B5">live lip-synced avatar</text>
+</g><g class="rise" style="animation-delay:0.36s">
+  <rect x="912.5" y=".5" width="287" height="149" rx="20" fill="#101018" stroke="#2FB980" stroke-opacity=".25"/>
+  <rect x="934" y="22" width="40" height="40" rx="12" fill="url(#k3)"/>
+  <g transform="translate(942 30) scale(.75)" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l8 3v6c0 4.5-3.4 8-8 9-4.6-1-8-4.5-8-9V6z"/><path d="M8.5 12l2.5 2.5 4.5-5"/></g>
+  <text x="988" y="48" class="f" font-size="18" font-weight="700" fill="#F5F5F8">Evals &amp; red-teaming</text>
+  <text x="934" y="96" class="f" font-size="14.5" fill="#A3A3B5">Eval harnesses, LLM judges,</text>
+  <text x="934" y="119" class="f" font-size="14.5" fill="#A3A3B5">adversarial agent testing</text>
+</g></svg>

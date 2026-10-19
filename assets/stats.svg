@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+<defs><linearGradient id="s0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9B8CFF"/><stop offset="1" stop-color="#5B45E0"/></linearGradient><linearGradient id="s1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3BA4F0"/><stop offset="1" stop-color="#5B6CF0"/></linearGradient><linearGradient id="s2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9B8CFF"/><stop offset="1" stop-color="#D06CC0"/></linearGradient><linearGradient id="s3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2FB980"/><stop offset="1" stop-color="#2BB5A5"/></linearGradient><style>
+  .f { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+  .pulse { animation: pulse 6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  .pulse2 { animation: pulse 9s ease-in-out infinite reverse; transform-box: fill-box; transform-origin: center; }
+  @keyframes pulse { 0%,100% { opacity: .7; transform: scale(1); } 50% { opacity: 1; transform: scale(1.12); } }
+  .spin { animation: spin 36s linear infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .live { animation: blink 2s ease-in-out infinite; }
+  @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: .3; } }
+  .rise { animation: rise .9s ease-out both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+</style></defs><g class="rise" style="animation-delay:0.0s">
+  <rect x="0.5" y=".5" width="278" height="169" rx="20" fill="#101018" stroke="#fff" stroke-opacity=".07"/>
+  <rect x="24" y="26" width="34" height="4" rx="2" fill="url(#s0)"/>
+  <text x="24" y="88" class="f" font-size="46" font-weight="800" fill="url(#s0)" letter-spacing="-1">1.08 s</text>
+  <text x="24" y="118" class="f" font-size="16" font-weight="600" fill="#F5F5F8">voice-to-voice reply</text>
+  <text x="24" y="142" class="f" font-size="13" fill="#6B6B80">AI Persona</text>
+</g><g class="rise" style="animation-delay:0.12s">
+  <rect x="294.5" y=".5" width="278" height="169" rx="20" fill="#101018" stroke="#fff" stroke-opacity=".07"/>
+  <rect x="318" y="26" width="34" height="4" rx="2" fill="url(#s1)"/>
+  <text x="318" y="88" class="f" font-size="46" font-weight="800" fill="url(#s1)" letter-spacing="-1">92.4%</text>
+  <text x="318" y="118" class="f" font-size="16" font-weight="600" fill="#F5F5F8">RAG answer accuracy</text>
+  <text x="318" y="142" class="f" font-size="13" fill="#6B6B80">Vendra · from 57.6%</text>
+</g><g class="rise" style="animation-delay:0.24s">
+  <rect x="588.5" y=".5" width="278" height="169" rx="20" fill="#101018" stroke="#fff" stroke-opacity=".07"/>
+  <rect x="612" y="26" width="34" height="4" rx="2" fill="url(#s2)"/>
+  <text x="612" y="88" class="f" font-size="46" font-weight="800" fill="url(#s2)" letter-spacing="-1">1.2%</text>
+  <text x="612" y="118" class="f" font-size="16" font-weight="600" fill="#F5F5F8">hallucination rate</text>
+  <text x="612" y="142" class="f" font-size="13" fill="#6B6B80">Vendra · from 8.6%</text>
+</g><g class="rise" style="animation-delay:0.36s">
+  <rect x="882.5" y=".5" width="278" height="169" rx="20" fill="#101018" stroke="#fff" stroke-opacity=".07"/>
+  <rect x="906" y="26" width="34" height="4" rx="2" fill="url(#s3)"/>
+  <text x="906" y="88" class="f" font-size="46" font-weight="800" fill="url(#s3)" letter-spacing="-1">3.6%</text>
+  <text x="906" y="118" class="f" font-size="16" font-weight="600" fill="#F5F5F8">cold-email reply rate</text>
+  <text x="906" y="142" class="f" font-size="13" fill="#6B6B80">LeadMaster · 7,262 sent</text>
+</g></svg>

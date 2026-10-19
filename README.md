@@ -1,74 +1,61 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Ahmed Hussain — AI Engineer" width="100%"/>
+  <a href="https://ahmedhussain.tech"><img src="assets/banner.svg" alt="Ahmed Hussain — AI Engineer, Agentic Systems & Voice AI" width="100%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://ahmedhussain.tech"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=9B8CFF&center=true&vCenter=true&width=720&lines=Agentic+AI+%C2%B7+RAG+%C2%B7+MCP+servers;Real-time+voice+%26+avatar+AI;LLM+evals+that+prove+it+works;Open+to+remote+AI+engineering+roles" alt="Typing intro"/></a>
+  <a href="https://ahmedhussain.tech"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=760&lines=I+build+AI+agents+that+do+real+work;Agentic+RAG+%E2%80%A2+MCP+servers+%E2%80%A2+LLM+evals;Real-time+voice+%26+avatar+AI+in+~1+second;Open+to+remote+AI+engineering+roles" alt="Typing intro"/></a>
 </p>
 
 <p align="center">
   <a href="https://ahmedhussain.tech"><img src="https://img.shields.io/badge/Portfolio-ahmedhussain.tech-9B8CFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101018" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/ahmed-hussain-ai/"><img src="https://img.shields.io/badge/LinkedIn-ahmed--hussain--ai-3BA4F0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101018" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-hussain-ai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3BA4F0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101018" alt="LinkedIn"/></a>
   <a href="mailto:ahmedhussain.ai.eng@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D06CC0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101018" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20remote-3DD68C?style=for-the-badge&labelColor=101018" alt="Open to remote"/>
+  <a href="https://github.com/ahmed-hussain-ai/resumes"><img src="https://img.shields.io/badge/Resume-Download-3DD68C?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=101018" alt="Resume"/></a>
 </p>
 
 <br/>
 
-## ✦ About me
+<img src="assets/h-about.svg" alt="About me" width="100%"/>
 
-I'm an **AI Engineer** who ships LLM products end to end — from the agent loop and retrieval pipeline to the API, the app and the evals. I care about one thing above all: **measurable results**. Every system below has numbers behind it.
+I'm an **AI Engineer** who ships LLM products end to end — the agent loop, the retrieval pipeline, the API, the app, and the **evals that prove it works**. My final-year project is a live talking avatar of myself that holds real conversations on my behalf, and I build agents that sell, research and run outreach for real businesses.
 
-- 🧠 Building **agentic systems**: tool-using agents, multi-agent workflows, MCP servers
-- 🔎 Making **RAG** accurate: retrieve → grade → rewrite loops, grounding and citation checks
-- 🎙️ Running **real-time voice and avatar AI** with sub-1.1 s replies
-- ⚙️ Automating real business workflows: outreach, lead handling, WhatsApp and email
+> **How I work:** build it, measure it, fix what the numbers say. Every result on this page comes from a real eval or real usage.
 
 <br/>
 
-## ✦ Featured work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🟣 AI Persona</h3>
-      <sub><img src="https://img.shields.io/badge/Final%20Year%20Project-6E5AEE?style=flat-square" alt="FYP"/> <img src="https://img.shields.io/badge/Voice%20%2B%20Avatar%20AI-9B8CFF?style=flat-square" alt="Voice"/></sub>
-      <p>A live talking avatar of me, built from one photo and a cloned voice. Visitors talk to it through a shareable link; it books meetings, answers from my documents and takes messages on my behalf.</p>
-      <p>⚡ <b>1.08 s</b> voice-to-voice (36% faster)<br/>🎞️ <b>~48 fps</b> avatar, 91.8% lip-sync<br/>✅ <b>90% → 98%</b> task success on 552 requests</p>
-      <a href="https://github.com/ahmed-hussain-ai/aipersona"><img src="https://img.shields.io/badge/View%20repo-101018?style=for-the-badge&logo=github&logoColor=9B8CFF" alt="Repo"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔵 Vendra</h3>
-      <sub><img src="https://img.shields.io/badge/Agentic%20RAG-3BA4F0?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/MCP%20%2B%20OAuth%202.1-5B6CF0?style=flat-square" alt="MCP"/></sub>
-      <p>A multi-tenant AI sales agent with an agentic RAG loop over 4 knowledge stores and its own OAuth-secured MCP server, so other AI clients can use it as a tool.</p>
-      <p>🎯 Accuracy <b>57.6% → 92.4%</b><br/>🛡️ Hallucinations <b>8.6% → 1.2%</b><br/>🔎 Retrieval recall <b>59% → 95.5%</b></p>
-      <a href="https://ahmedhussain.tech"><img src="https://img.shields.io/badge/See%20on%20portfolio-101018?style=for-the-badge&logo=googlechrome&logoColor=3BA4F0" alt="Portfolio"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🩷 Sparring</h3>
-      <sub><img src="https://img.shields.io/badge/Agent%20QA-D06CC0?style=flat-square" alt="QA"/> <img src="https://img.shields.io/badge/Red%20teaming-F0616D?style=flat-square" alt="Red team"/></sub>
-      <p>An autonomous QA and red-teaming platform that attacks AI agents with adaptive conversations and security checks, then traces each failure back to code.</p>
-      <p>🐞 Found <b>2 real defects</b> in 14 scenarios + 15 MCP checks<br/>📉 Cut internal-source leaks <b>30% → 10%</b></p>
-      <a href="https://ahmedhussain.tech"><img src="https://img.shields.io/badge/See%20on%20portfolio-101018?style=for-the-badge&logo=googlechrome&logoColor=D06CC0" alt="Portfolio"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🟢 LeadMaster</h3>
-      <sub><img src="https://img.shields.io/badge/AI%20Automation-2FB980?style=flat-square" alt="Automation"/> <img src="https://img.shields.io/badge/Outreach-2BB5A5?style=flat-square" alt="Outreach"/></sub>
-      <p>An AI cold-outreach engine: researches each lead, writes a personalised email and sends from several inboxes, with reply tracking and follow-ups.</p>
-      <p>📨 <b>7,262</b> emails sent<br/>💬 <b>261</b> replies, <b>3.6%</b> reply rate</p>
-      <a href="https://ahmedhussain.tech"><img src="https://img.shields.io/badge/See%20on%20portfolio-101018?style=for-the-badge&logo=googlechrome&logoColor=3DD68C" alt="Portfolio"/></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## ✦ Tech stack
+<img src="assets/h-numbers.svg" alt="By the numbers" width="100%"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,ts,js,react,nodejs,postgres,redis,docker,nginx,linux,git&theme=dark&perline=13" alt="Tech icons"/>
+  <img src="assets/stats.svg" alt="1.08 s voice-to-voice · 92.4% RAG accuracy · 1.2% hallucination rate · 3.6% cold-email reply rate" width="100%"/>
+</p>
+
+<br/>
+
+<img src="assets/h-work.svg" alt="Featured work" width="100%"/>
+
+<p align="center">
+  <a href="https://github.com/ahmed-hussain-ai/aipersona"><img src="assets/card-aipersona.svg" alt="AI Persona — live talking avatar: 1.08 s voice-to-voice, ~48 fps avatar, 98% task success" width="49%"/></a>
+  <a href="https://ahmedhussain.tech"><img src="assets/card-vendra.svg" alt="Vendra — agentic RAG + MCP: 92.4% accuracy, 1.2% hallucination, 95.5% recall" width="49%"/></a>
+</p>
+<p align="center">
+  <a href="https://ahmedhussain.tech"><img src="assets/card-sparring.svg" alt="Sparring — agent QA and red-teaming: 2 real defects found, leak rate cut 30% to 10%" width="49%"/></a>
+  <a href="https://ahmedhussain.tech"><img src="assets/card-leadmaster.svg" alt="LeadMaster — AI outreach: 7,262 emails, 261 replies, 3.6% reply rate" width="49%"/></a>
+</p>
+
+<br/>
+
+<img src="assets/h-build.svg" alt="What I build" width="100%"/>
+
+<p align="center">
+  <img src="assets/capabilities.svg" alt="Agentic systems · Accurate RAG · Voice & avatar AI · Evals & red-teaming" width="100%"/>
+</p>
+
+<br/>
+
+<img src="assets/h-stack.svg" alt="Tech stack" width="100%"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,ts,js,react,nodejs,postgres,redis,docker,nginx,linux,git&theme=dark&perline=13" alt="Python, PyTorch, FastAPI, TypeScript, JavaScript, React, Node.js, PostgreSQL, Redis, Docker, Nginx, Linux, Git"/>
 </p>
 
 <p align="center">
@@ -85,16 +72,24 @@ I'm an **AI Engineer** who ships LLM products end to end — from the agent loop
 
 <br/>
 
-## ✦ Learning
+<img src="assets/h-learning.svg" alt="Learning" width="100%"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Stanford%20·%20Andrew%20Ng-6E5AEE?style=for-the-badge&labelColor=181822" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-Andrew%20Ng-3BA4F0?style=for-the-badge&labelColor=181822" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/Generative%20%26%20Agentic%20AI-Self--taught-D06CC0?style=for-the-badge&labelColor=181822" alt="Generative AI"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Stanford%20·%20Andrew%20Ng-6E5AEE?style=for-the-badge&labelColor=181822" alt="Machine Learning — Stanford, Andrew Ng"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-Andrew%20Ng-3BA4F0?style=for-the-badge&labelColor=181822" alt="Deep Learning Specialization — Andrew Ng"/>
+  <img src="https://img.shields.io/badge/Generative%20%26%20Agentic%20AI-Self--taught-D06CC0?style=for-the-badge&labelColor=181822" alt="Generative & Agentic AI — self-taught"/>
 </p>
 
 <br/>
 
+<img src="assets/h-contact.svg" alt="Let's talk" width="100%"/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B8CFF,50:6E5AEE,100:3BA4F0&height=110&section=footer" alt="footer" width="100%"/>
+  Hiring for <b>AI Engineer</b>, <b>Agentic AI</b> or <b>AI Product</b> roles? I'd love to hear about it.<br/><br/>
+  <a href="mailto:ahmedhussain.ai.eng@gmail.com"><img src="https://img.shields.io/badge/ahmedhussain.ai.eng@gmail.com-9B8CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-hussain-ai/"><img src="https://img.shields.io/badge/LinkedIn-3BA4F0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B8CFF,50:6E5AEE,100:3BA4F0&height=120&section=footer&text=Thanks%20for%20stopping%20by&fontSize=22&fontColor=F5F5F8&fontAlignY=72" alt="Thanks for stopping by" width="100%"/>
 </p>
