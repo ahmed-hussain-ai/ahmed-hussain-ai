@@ -85,15 +85,6 @@ I'm an **AI Engineer** who ships LLM products end to end — from the agent loop
 
 <br/>
 
-## ✦ GitHub activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmed-hussain-ai&show_icons=true&hide_border=true&bg_color=101018&title_color=9B8CFF&icon_color=3BA4F0&text_color=A3A3B5&ring_color=6E5AEE&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hussain-ai&layout=compact&hide_border=true&bg_color=101018&title_color=9B8CFF&text_color=A3A3B5&langs_count=6" alt="Top languages"/>
-</p>
-
-<br/>
-
 ## ✦ Learning
 
 <p>
