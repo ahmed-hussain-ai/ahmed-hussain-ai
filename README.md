@@ -38,7 +38,7 @@ I'm an **AI Engineer** who ships **production LLM systems** end to end — the a
   <a href="https://github.com/ahmed-hussain-ai/vendra"><img src="assets/card-vendra.svg" alt="Vendra — agentic RAG + MCP: 92.4% accuracy, 1.2% hallucination, 95.5% recall" width="49%"/></a>
 </p>
 <p align="center">
-  <a href="https://ahmedhussain.tech"><img src="assets/card-sparring.svg" alt="Sparring — agent QA and red-teaming: 2 real defects found, leak rate cut 30% to 10%" width="49%"/></a>
+  <a href="https://github.com/ahmed-hussain-ai/sparring_ai"><img src="assets/card-sparring.svg" alt="Sparring — agent QA and red-teaming: 2 real defects found, leak rate cut 30% to 10%" width="49%"/></a>
   <a href="https://github.com/ahmed-hussain-ai/leadmaster"><img src="assets/card-leadmaster-v2.svg" alt="LeadMaster — AI outreach: 8,778 emails, 3.7% reply rate, 17 campaigns" width="49%"/></a>
 </p>
 
