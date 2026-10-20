@@ -44,26 +44,6 @@ I'm an **AI Engineer** who ships **production LLM systems** end to end — the a
 
 <br/>
 
-<img src="assets/h-live.svg" alt="Live right now" width="100%"/>
-
-<p align="center">
-  <a href="https://aipersona.ahmedhussain.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Faipersona.ahmedhussain.tech&label=AI%20Persona&up_message=live&down_message=offline&up_color=3DD68C&style=for-the-badge&labelColor=101018" alt="AI Persona status"/></a>
-  <a href="https://coachsync.ahmedhussain.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcoachsync.ahmedhussain.tech&label=Vendra&up_message=live&down_message=offline&up_color=3DD68C&style=for-the-badge&labelColor=101018" alt="Vendra status"/></a>
-  <a href="https://leadmaster.ahmedhussain.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Fleadmaster.ahmedhussain.tech&label=LeadMaster&up_message=live&down_message=offline&up_color=3DD68C&style=for-the-badge&labelColor=101018" alt="LeadMaster status"/></a>
-  <a href="https://ahmedhussain.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Fahmedhussain.tech&label=Portfolio&up_message=live&down_message=offline&up_color=3DD68C&style=for-the-badge&labelColor=101018" alt="Portfolio status"/></a>
-</p>
-<p align="center"><sub>Status is checked live each time this page loads.</sub></p>
-
-<br/>
-
-<img src="assets/h-prod.svg" alt="Built for production" width="100%"/>
-
-<p align="center">
-  <img src="assets/production-v2.svg" alt="Security, reliability, observability, quality gates, performance and shipping practices" width="100%"/>
-</p>
-
-<br/>
-
 <img src="assets/h-build.svg" alt="What I build" width="100%"/>
 
 <p align="center">
@@ -88,6 +68,26 @@ I'm an **AI Engineer** who ships **production LLM systems** end to end — the a
   <img src="https://img.shields.io/badge/n8n-101018?style=for-the-badge&logo=n8n&logoColor=F0616D" alt="n8n"/>
   <img src="https://img.shields.io/badge/Zapier-101018?style=for-the-badge&logo=zapier&logoColor=F5A044" alt="Zapier"/>
   <img src="https://img.shields.io/badge/Make-101018?style=for-the-badge&logo=make&logoColor=B06CF0" alt="Make"/>
+</p>
+
+<br/>
+
+<img src="assets/h-live.svg" alt="Live right now" width="100%"/>
+
+<p align="center">
+  <a href="https://aipersona.ahmedhussain.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Faipersona.ahmedhussain.tech&label=AI%20Persona&up_message=live&down_message=offline&up_color=3DD68C&style=for-the-badge&labelColor=101018" alt="AI Persona status"/></a>
+  <a href="https://coachsync.ahmedhussain.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcoachsync.ahmedhussain.tech&label=Vendra&up_message=live&down_message=offline&up_color=3DD68C&style=for-the-badge&labelColor=101018" alt="Vendra status"/></a>
+  <a href="https://leadmaster.ahmedhussain.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Fleadmaster.ahmedhussain.tech&label=LeadMaster&up_message=live&down_message=offline&up_color=3DD68C&style=for-the-badge&labelColor=101018" alt="LeadMaster status"/></a>
+  <a href="https://ahmedhussain.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Fahmedhussain.tech&label=Portfolio&up_message=live&down_message=offline&up_color=3DD68C&style=for-the-badge&labelColor=101018" alt="Portfolio status"/></a>
+</p>
+<p align="center"><sub>Status is checked live each time this page loads.</sub></p>
+
+<br/>
+
+<img src="assets/h-prod.svg" alt="Built for production" width="100%"/>
+
+<p align="center">
+  <img src="assets/production-v2.svg" alt="Security, reliability, observability, quality gates, performance and shipping practices" width="100%"/>
 </p>
 
 <br/>
