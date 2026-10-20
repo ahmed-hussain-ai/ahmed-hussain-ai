@@ -26,7 +26,7 @@ I'm an **AI Engineer** who ships **production LLM systems** end to end — the a
 <img src="assets/h-numbers.svg" alt="By the numbers" width="100%"/>
 
 <p align="center">
-  <img src="assets/stats.svg" alt="1.08 s voice-to-voice · 92.4% RAG accuracy · 1.2% hallucination rate · 3.6% cold-email reply rate" width="100%"/>
+  <img src="assets/stats-v2.svg" alt="1.08 s voice-to-voice · 92.4% RAG accuracy · 1.2% hallucination rate · 3.7% cold-email reply rate" width="100%"/>
 </p>
 
 <br/>
@@ -35,11 +35,11 @@ I'm an **AI Engineer** who ships **production LLM systems** end to end — the a
 
 <p align="center">
   <a href="https://github.com/ahmed-hussain-ai/aipersona"><img src="assets/card-aipersona.svg" alt="AI Persona — live talking avatar: 1.08 s voice-to-voice, ~48 fps avatar, 98% task success" width="49%"/></a>
-  <a href="https://ahmedhussain.tech"><img src="assets/card-vendra.svg" alt="Vendra — agentic RAG + MCP: 92.4% accuracy, 1.2% hallucination, 95.5% recall" width="49%"/></a>
+  <a href="https://github.com/ahmed-hussain-ai/vendra"><img src="assets/card-vendra.svg" alt="Vendra — agentic RAG + MCP: 92.4% accuracy, 1.2% hallucination, 95.5% recall" width="49%"/></a>
 </p>
 <p align="center">
   <a href="https://ahmedhussain.tech"><img src="assets/card-sparring.svg" alt="Sparring — agent QA and red-teaming: 2 real defects found, leak rate cut 30% to 10%" width="49%"/></a>
-  <a href="https://ahmedhussain.tech"><img src="assets/card-leadmaster.svg" alt="LeadMaster — AI outreach: 7,262 emails, 261 replies, 3.6% reply rate" width="49%"/></a>
+  <a href="https://github.com/ahmed-hussain-ai/leadmaster"><img src="assets/card-leadmaster-v2.svg" alt="LeadMaster — AI outreach: 8,778 emails, 3.7% reply rate, 17 campaigns" width="49%"/></a>
 </p>
 
 <br/>
@@ -98,17 +98,6 @@ I'm an **AI Engineer** who ships **production LLM systems** end to end — the a
   <img src="https://img.shields.io/badge/Machine%20Learning-Stanford%20·%20Andrew%20Ng-6E5AEE?style=for-the-badge&labelColor=181822" alt="Machine Learning — Stanford, Andrew Ng"/>
   <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-Andrew%20Ng-3BA4F0?style=for-the-badge&labelColor=181822" alt="Deep Learning Specialization — Andrew Ng"/>
   <img src="https://img.shields.io/badge/Generative%20%26%20Agentic%20AI-Self--taught-D06CC0?style=for-the-badge&labelColor=181822" alt="Generative & Agentic AI — self-taught"/>
-</p>
-
-<br/>
-
-<img src="assets/h-arch.svg" alt="How my systems are built" width="100%"/>
-
-<p align="center">
-  <img src="assets/arch-aipersona-v3.svg" alt="AI Persona, a real-time AI avatar system: phone app → Nginx (TLS, JWT) → WebSocket + VAD → Deepgram speech-to-text → Cerebras router with Groq failover → planner & runner (retry, circuit breaker) → agents & MCP tools → composer → streaming voice → live Ditto avatar" width="100%"/>
-</p>
-<p align="center">
-  <img src="assets/arch-vendra-v3.svg" alt="Vendra architecture: channels → Nginx (TLS, rate limiting) → FastAPI + LangGraph agent → agentic RAG loop → grounding check; MCP clients → OAuth 2.1 → MCP server (9 scoped tools, audit log) → Postgres + pgvector → retrieval traces" width="100%"/>
 </p>
 
 <br/>
