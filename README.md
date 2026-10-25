@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ahmedhussain.tech"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=760&lines=I+build+AI+agents+that+do+real+work;Production+AI%3A+secured%2C+monitored%2C+measured;Agentic+RAG+%E2%80%A2+MCP+servers+%E2%80%A2+LLM+evals;Real-time+voice+%26+avatar+AI+in+~1+second;Open+to+remote+AI+engineering+roles" alt="Typing intro"/></a>
+  <a href="https://ahmedhussain.tech"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=760&lines=I+build+AI+agents+that+do+real+work;1st+of+350%2B+projects+%E2%80%A2+AIEF+AI+Championship+2026;Production+AI%3A+secured%2C+monitored%2C+measured;Agentic+RAG+%E2%80%A2+MCP+servers+%E2%80%A2+LLM+evals;Real-time+voice+%26+avatar+AI+in+~1+second;Open+to+remote+AI+engineering+roles" alt="Typing intro"/></a>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 <img src="assets/h-about.svg" alt="About me" width="100%"/>
 
-I'm an **AI Engineer** who ships **production LLM systems** end to end — the agent loop, the retrieval pipeline, the API, the app, the server it runs on, and the **evals that prove it works**. My systems are live on my own infrastructure behind TLS, with auth, failover, tracing and test suites. My final-year project is a live talking avatar of myself that holds real conversations on my behalf, and I build agents that sell, research and run outreach for real businesses.
+I'm an **AI Engineer** who ships **production LLM systems** end to end — the agent loop, the retrieval pipeline, the API, the app, the server it runs on, and the **evals that prove it works**. My systems are live on my own infrastructure behind TLS, with auth, failover, tracing and test suites. My final-year project, **AI Persona**, is a live talking avatar of myself that holds real conversations on my behalf; it won 1st place out of 350+ projects at the AIEF 4th International AI Championship (2026), and I build agents that sell, research and run outreach for real businesses.
 
 > **How I work:** build it, measure it, fix what the numbers say. Every result on this page comes from a real eval or real usage.
 
